@@ -14,11 +14,6 @@ The default server is `http://localhost:4000`
 
 ## How to use and configure 
 
-- Just include the components in your project:
-```js
-    <SearchBar />
-```
-
 - Code Examples:
     services.mjs is the grahql main point.
 ```js
